@@ -1,0 +1,43 @@
+
+
+.sidebar-wrapper {
+
+
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    height: auto;
+    box-sizing: border-box;
+}
+
+.sidebar-wrapper img {
+    width: 50px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.sidebar-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 0;
+    transition: 0.3s;
+}
+
+.sidebar-items-display {
+    height: 500px;
+}
+
+.sidebar-wrapper ul li {
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    list-style: none;
+    
+   
+
+
+}

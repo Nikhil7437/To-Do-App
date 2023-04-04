@@ -1,0 +1,64 @@
+.note-wrapper {
+    margin-top: 30px;
+    width: 280px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    background-color: rgb(240, 122, 224);
+    padding: 20px;
+}
+
+.note-wrapper textarea {
+    flex: 1;
+    resize: none;
+    background-color: transparent;
+    border: none;
+    box-sizing: border-box;
+}
+
+textarea:focus {
+    outline: none;
+}
+
+.note-wrapper textarea {
+    font-family: gilroy;
+    /* word-spacing: 2px; */
+    color:black;
+}
+
+
+.note-bottom
+{
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.note-bottom p
+{
+ color: whitesmoke;
+}
+.delete-icon
+{
+    opacity: 0;
+width: 25px;
+object-fit: cover;
+cursor: pointer;
+transition: 0.3s ease-in-out;
+}
+.note-wrapper:hover .delete-icon{
+    opacity: 1;
+}
+
+/*  responsive design */
+
+@media (max-width:450px) {
+    .note-wrapper {
+        margin-top: 30px;
+        width: 250px;
+        height: 250px;
+       
+    }
+}
+
