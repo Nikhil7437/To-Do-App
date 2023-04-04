@@ -36,3 +36,18 @@ This project was built using the following technologies:
 
 
 # Snapshots
+
+![Screenshot (125)](https://user-images.githubusercontent.com/117345772/229731329-e104f6cc-5fc9-43e0-89ee-ef66e3c055fb.png)
+
+![Screenshot (126)](https://user-images.githubusercontent.com/117345772/229731359-7e57f503-b5a6-4387-bfc5-bd2ef051dd9c.png)
+
+
+
+![Screenshot (127)](https://user-images.githubusercontent.com/117345772/229731375-899481fd-fae0-4c94-9802-77144898b839.png)
+
+
+
+![Screenshot (128)](https://user-images.githubusercontent.com/117345772/229731397-8fa2fcbc-8a85-4351-bfdd-0cec2bacbc1f.png)
+
+
+
